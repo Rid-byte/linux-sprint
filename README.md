@@ -1,7 +1,7 @@
 # linux-sprint
 Documenting my Linux and DevOps learning Sprint!
 
-🚀 What I Learned
+# 🚀 What I Learned
 
 - Linux is case-sensitive.
 - whoami → shows current user.
@@ -15,12 +15,12 @@ Documenting my Linux and DevOps learning Sprint!
 - Middle: running processes.
 - Bottom: options (q to quit).
   
-🌱 Achievements
+# 🌱 Achievements
 
 - ✅ Completed my first Linux lab.
 - 🏅 Earned badges: Starter Skills + First Lab Conqueror
   
-🔮 Next Steps
+# 🔮 Next Steps
 
 - Explore file navigation commands: ls, cd, pwd.
 - Learn about file permissions.
